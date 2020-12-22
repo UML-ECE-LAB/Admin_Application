@@ -1,0 +1,7 @@
+Open Command line in the directory where the Admin Application scripts are
+
+To run the Admin Application -
+GUI Version:
+    py admin_app.py
+Terminal Version:
+    py admin.py
